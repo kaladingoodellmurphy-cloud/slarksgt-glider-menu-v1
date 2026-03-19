@@ -49,7 +49,8 @@ namespace GorillaTagModTemplateProject
 		}
 
 		void Update()
-		{
+		{// This makes you move super fast like a pro!
+GorillaLocomotion.Player.Instance.maxJumpSpeed = 15f;
 			/* Code here runs every frame when the mod is enabled */
 		}
 	}
