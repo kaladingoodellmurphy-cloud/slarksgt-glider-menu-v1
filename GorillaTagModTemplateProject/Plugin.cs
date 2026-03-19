@@ -55,3 +55,4 @@ GorillaLocomotion.Player.Instance.maxJumpSpeed = 15f;
 		}
 	}
 }
+.
